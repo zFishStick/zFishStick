@@ -11,7 +11,7 @@
 ## I linguaggi sono etichettati dal più trattato (🟢) al meno trattato (🟠)
 <div style="display:flex; flex-direction:row; gap:50px; font-size:20px">
 
-<div style="flex-direction:column">
+<div style="display:flex; flex-direction:column">
 
 ### 🟢 HTML
 ### 🟢 JavaScript
@@ -20,7 +20,7 @@
 
 </div>
 
-<div style="flex-direction:column">
+<div style="display:flex; flex-direction:column">
 
 ### 🟠 C++
 ### 🟠 Kotlin
@@ -29,7 +29,7 @@
 
 </div>
 
-<div style="flex-direction:column">
+<div style="display:flex; flex-direction:column">
 
 ### 🟡 React
 ### 🟡 Node.js
@@ -45,7 +45,7 @@
 ### 🟢 MongoDB
 </div>
 
-<p align="center">
+<p align="center" style="font-size: 20px;>
   <a href="https://myfishfolio.vercel.app/" style="text-decoration:none; color: inherit;">
     Per altre informazioni su di me, visita il mio portfolio! 🐟
   </a>
