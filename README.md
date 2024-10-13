@@ -46,7 +46,7 @@
 </div>
 
 <p align="center">
-  <a style="text-decoration:none;" href="https://myfishfolio.vercel.app/">
-    <h2>Per altre informazioni su di me, visita il mio portfolio! 🐟</h2>
+  <a href="https://myfishfolio.vercel.app/" style="text-decoration:none; color: inherit;">
+    Per altre informazioni su di me, visita il mio portfolio! 🐟
   </a>
 </p>
