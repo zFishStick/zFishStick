@@ -1,4 +1,4 @@
-<img src="assets/psyduck.gif" style="display: block; margin: 0 auto">
+<img src="assets/psyduck.gif" style="display: block; margin: auto">
 
 <h2 align="center">Ciao! Sono zFish, ma puoi chiamarmi Gabriel 🐟</h2>
 
