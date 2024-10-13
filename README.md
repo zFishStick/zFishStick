@@ -1,6 +1,8 @@
-![psyduck gif](assets/psyduck.gif){style="display: block; margin: 0 auto"}
-
 <h2 align="center">Ciao! Sono zFish, ma puoi chiamarmi Gabriel 🐟</h2>
+
+<p align="center">
+  <img src="assets/psyduck.gif" alt="psyduck gif" style="display: block; margin: 0 auto;" />
+</p>
 
 # Biografia 🦐
 <p style="font-size:20px; line-height: 40px">Mi chiamo Gabriel, ho 21 anni, sono appassionato al mondo dell'informatica da quando ero piccolo. Attualmente, sono al terzo anno di informatica (credo si sia capito) all'università.</p>
@@ -43,7 +45,8 @@
 ### 🟢 MongoDB
 </div>
 
-<a style="text-decoration:none;" href="https://myfishfolio.vercel.app/"><h2 align="center">Per altre informazioni su di me, visita il mio portfolio! 🐟</h2></a>
-
-
-
+<p align="center">
+  <a style="text-decoration:none;" href="https://myfishfolio.vercel.app/">
+    <h2>Per altre informazioni su di me, visita il mio portfolio! 🐟</h2>
+  </a>
+</p>
