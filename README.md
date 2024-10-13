@@ -45,8 +45,8 @@
 ### 🟢 MongoDB
 </div>
 
-<p align="center" style="font-size: 20px;>
-  <a href="https://myfishfolio.vercel.app/" style="text-decoration:none; color: inherit;">
+<p align="center" style="font-size: 20px;">
+  <a href="https://myfishfolio.vercel.app/" style="color: inherit;">
     Per altre informazioni su di me, visita il mio portfolio! 🐟
   </a>
 </p>
