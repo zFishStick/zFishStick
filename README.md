@@ -5,7 +5,7 @@
 </p>
 
 # Biografia 🦐
-<p style="font-size:20px; line-height: 40px">Mi chiamo Gabriel, ho 21 anni, sono appassionato al mondo dell'informatica da quando ero piccolo. Attualmente, sono al terzo anno di informatica (credo si sia capito) all'università.</p>
+<p style="font-size:20px; line-height: 40px">Mi chiamo Gabriel, ho 21 anni e sono appassionato al mondo dell'informatica da quando ero piccolo. Attualmente, sono al terzo anno di informatica (credo si sia capito) all'università.</p>
 
 # Linguaggi trattati 💻
 ## I linguaggi sono etichettati dal più trattato (🟢) al meno trattato (🟠)
