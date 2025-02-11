@@ -23,7 +23,7 @@
 <div style="display:flex; flex-direction:column">
 
 ### 🟠 C++
-### 🟠 Kotlin
+### 🟢 Kotlin
 ### 🟢 Java
 ### 🟠 C#
 
