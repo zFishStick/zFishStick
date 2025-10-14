@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Gabriel 🐟</h2>
+<h2 align="center">Hi! I'm Gabriel 🐟</h2>
 
 <p align="center">
   <img src="assets/psyduck.gif" alt="psyduck gif" style="display: block; margin: 0 auto;" />
