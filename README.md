@@ -9,10 +9,24 @@
 
 # Some social network 📲
 
+<div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 20px;">
 
+  <a href="https://pescamolle.itch.io/" target="_blank" align="center">
+    <img alt="Itch.io" width="300px" src="assets/itch_io.svg" />
+  </a>
+
+  <p style="text-align: center;">  (I just a released my first game on Itch.io, check it out! 🎮) </p>
+
+
+  <a href="https://www.instagram.com/gabri.pesce_/" target="_blank" align="center">
+    <img alt="Instagram" width="100px" src="assets/instagram.png" />
+  </a>
+
+
+</div>
 
 <p align="center" style="font-size: 20px;">
   <a href="https://myfishfolio.vercel.app/" style="color: inherit;">
-    Per altre informazioni su di me, visita il mio portfolio! 🐟
+    For more information about me, visit my <span style="font-weight: bold; text-decoration: underline;"> portfolio!</span> 🐟
   </a>
 </p>
