@@ -1,49 +1,15 @@
-<h2 align="center">Ciao! Sono zFish, ma puoi chiamarmi Gabriel 🐟</h2>
+<h2 align="center">Hi I'm Gabriel 🐟</h2>
 
 <p align="center">
   <img src="assets/psyduck.gif" alt="psyduck gif" style="display: block; margin: 0 auto;" />
 </p>
 
-# Biografia 🦐
-<p style="font-size:20px; line-height: 40px">Mi chiamo Gabriel, ho 21 anni e sono appassionato al mondo dell'informatica da quando ero piccolo. Attualmente, sono al terzo anno di informatica (credo si sia capito) all'università.</p>
+# Bio 🦐
+<p style="font-size:20px; line-height: 40px">My name is Gabriel, I am 22 years old, and I have been passionate about Computer Science since I was a kid. Currently, I am attending a Master Program in Computer Science in the area of the Software Engineering.</p>
 
-# Linguaggi trattati 💻
-## I linguaggi sono etichettati dal più trattato (🟢) al meno trattato (🟠)
-<div style="display:flex; flex-direction:row; gap:50px; font-size:20px">
+# Some social network 📲
 
-<div style="display:flex; flex-direction:column">
 
-### 🟢 HTML
-### 🟢 JavaScript
-### 🟡 Python
-### 🟢 CSS
-
-</div>
-
-<div style="display:flex; flex-direction:column">
-
-### 🟠 C++
-### 🟢 Kotlin
-### 🟢 Java
-### 🟠 C#
-
-</div>
-
-<div style="display:flex; flex-direction:column">
-
-### 🟡 React
-### 🟡 Node.js
-### 🟡 git
-
-</div>
-</div>
-
-# Database trattati 📚
-<div style="display:flex; flex-direction:row; gap:50px; font-size:20px">
-
-### 🟢 MySQL
-### 🟢 MongoDB
-</div>
 
 <p align="center" style="font-size: 20px;">
   <a href="https://myfishfolio.vercel.app/" style="color: inherit;">
